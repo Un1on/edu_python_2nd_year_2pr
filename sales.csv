@@ -1,0 +1,7 @@
+customer,product_name,price,quantity,discount
+Vlad,Laptop,10000.0,2,10.0
+Anna,Laptop,10000.0,1,0.0
+Oleg,PC,25000.0,1,5.0
+Vlad,Mouse,500.0,2,0.0
+Oleg,Monitor,6000.0,1,5.0
+Maria,Keyboard,1200.0,3,15.0
